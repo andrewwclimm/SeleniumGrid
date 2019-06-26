@@ -1,4 +1,4 @@
-First machine terminal:
+First machine terminal: // in the place where you have selenium-server-standalone
 java -jar selenium-server-standalone.141.59.jar -role hub
 
 
